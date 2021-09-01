@@ -1,4 +1,4 @@
-Renaissance Learning Science Data Challenge
+Freckle Data Challenge
 ===========================================
 
 In Learning Science and Educational Data Mining, we often look for
