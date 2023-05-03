@@ -1,5 +1,8 @@
-# Freckle Data Challenge
+**Archived**: this repository is archived when we're not actively
+interviewing data science candidates. This is so it is not flagged
+by compliance checks related to branch protections.
 
+# Freckle Data Challenge
 
 In Learning Science and Educational Data Mining, we often look for
 student time-on-task (ToT) to better understand the content usage
